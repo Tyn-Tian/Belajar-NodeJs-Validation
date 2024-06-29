@@ -1,0 +1,20 @@
+{
+  "name": "belajar-nodejs-validation",
+  "version": "1.0.0",
+  "description": "Belajar NodeJs Validation",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Christian",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/preset-env": "^7.24.7",
+    "@types/jest": "^29.5.12",
+    "babel-jest": "^29.7.0"
+  },
+  "dependencies": {
+    "joi": "^17.13.3"
+  }
+}
